@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "javax": "^0.0.1",
+    "maven": "^5.0.0"
+  }
+}
